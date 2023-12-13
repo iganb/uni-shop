@@ -63,7 +63,7 @@
       console.log(goods)
   
      uni.navigateTo({
-       url: '/subpkg/goods_detail/goods_detail?goods_id=' + goods.goods_id
+       url: '/subpkg/goods-detail/goods-detail?goods_id='+goods.goods_id
      });
   console.log('导航之后');
     }
