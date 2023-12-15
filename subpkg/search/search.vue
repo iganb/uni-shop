@@ -41,7 +41,7 @@
            // 延时器的 timerId
             timer: null,
             // 搜索关键词
-            kw: '',
+            kw: 'a',
             // 搜索结果列表
             searchResults: [],
            // 搜索关键词的历史记录
